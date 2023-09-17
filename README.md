@@ -1,11 +1,13 @@
 ## Olá eu sou o Francisco, desenvolvedor web - atuando com front-end e estudando back-end!
-
+<div>
 <a href="https://github.com/franciscoaiolfi/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=franciscoaiolfi&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/franciscoaiolfi/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoaiolfi&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoaiolfi&layout=compact" />
 </a>
+</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
