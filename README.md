@@ -1,5 +1,5 @@
 ## Olá eu sou o Francisco, desenvolvedor web - atuando com front-end e estudando back-end!
-<div>
+<div style="display:flex">
 <a href="https://github.com/franciscoaiolfi/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=franciscoaiolfi&show_icons=true&theme=transparent" />
 </a>
